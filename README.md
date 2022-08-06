@@ -11,6 +11,10 @@ This repository contains different logo's drawn using python `turtle` module.
     `python windows_10_logo.py --theme` *`color`*  
     *color:* (**Default:** White, **Alternate:** Blue)
 
+2. Microsoft
+    > Usage:  
+    `python microsoft_logo.py`
+
 More logo's will be added soon ...
 
 # Reference
