@@ -1,7 +1,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/pylint)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-![Last commit](https://img.shields.io/github/last-commit/DAShaikh10/Turtle-Logos)
+[![Last commit](https://img.shields.io/github/last-commit/DAShaikh10/Turtle-Logos)](https://github.com/DAShaikh10/Turtle-Logos/commits/main)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 # Introduction
@@ -25,6 +25,10 @@ This repository contains different logo's drawn using python `turtle` module.
     > python microsoft_logo.py
     > ```
 
+## Upcoming logos
+- Dell logo
+- GeeksforGeeks logo
+
 More logo's will be added soon ...
 
 <div align="center">
@@ -33,7 +37,7 @@ More logo's will be added soon ...
 </div>
 
 # Reference
-Python turtle module: https://docs.python.org/3/library/turtle.html
+Python `turtle` module: https://docs.python.org/3/library/turtle.html
 
 # Note
 All the logo's and their copyright's belong to their respective owners.
