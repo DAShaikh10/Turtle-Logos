@@ -20,20 +20,20 @@ This repository contains different logo's drawn using python `turtle` module.
     ```
     *color:* (**Default:** White, **Alternate:** Blue)
     
-    **Preview:**
-    <details>
-    <summary><i>Windows 10 logo - White theme</i></summary>
-        <p align="center">
-        <img src="preview\windows_10_logo - white.png" alt="Windows 10 logo - White theme" width=400 height=300>
-        </p>
-    </details>
-
-    <details>
-    <summary><i>Windows 10 logo - Blue theme</i></summary>
-        <p align="center">
-        <img src="preview\windows_10_logo - blue.png" alt="Windows 10 logo - Blue theme" width=400 height=300>
-        </p>
-    </details>
+    > **Preview:**
+    > <details>
+    > <summary><i>Windows 10 logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\windows_10_logo - white.png" alt="Windows 10 logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Windows 10 logo - Blue theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\windows_10_logo - blue.png" alt="Windows 10 logo - Blue theme" width=400 height=300>
+    >     </p>
+    > </details>
 
 2. Microsoft  
     **Usage**  
@@ -41,13 +41,13 @@ This repository contains different logo's drawn using python `turtle` module.
     python microsoft_logo.py
     ```
 
-    **Preview:**
-    <details>
-    <summary><i>Microsoft logo</i></summary>
-        <p align="center">
-        <img src="preview\microsoft_logo.png" alt="Microsoft logo" width=400 height=300>
-        </p>
-    </details>
+    > **Preview:**
+    > <details>
+    > <summary><i>Microsoft logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\microsoft_logo.png" alt="Microsoft logo" width=400 height=300>
+    >     </p>
+    > </details>
 
 ## Upcoming logo's
 - Dell logo
