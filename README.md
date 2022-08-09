@@ -57,7 +57,7 @@ This repository contains different logo's drawn using python `turtle` module.
 More logo's will be added soon ...
 
 # Acknowledgements
-Python `turtle` module: [Documention][turtle-url]
+Python `turtle` module: [Documentation][turtle-url]
 
 # Note
 All the logo's and their copyright's belong to their respective owners.
