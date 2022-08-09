@@ -1,75 +1,82 @@
 """
 @Author: DAShaikh
+Logo: Microsoft (https://www.microsoft.com)
 """
 
 import turtle
 
 
-# Initialize the pen and screen objects.
+# Initialize the turtle pen and screen objects.
 pen = turtle.Turtle()
 screen = turtle.Screen()
 
-# Set pen color.
-pen.color("#F25022")
-
-# Orange square.
-pen.fillcolor("#F25022")
-pen.begin_fill()
+# Set initial position.
+pen.hideturtle()
 pen.penup()
 pen.goto(-154, 4)
 pen.pendown()
+pen.showturtle()
+
+# Set pen color to orange.
+pen.color("#f25022")
+
+# Draw the orange square.
+pen.begin_fill()
 pen.goto(-204, 4)
 pen.goto(-204, 50)
 pen.goto(-154, 50)
 pen.goto(-154, 4)
 pen.end_fill()
 
-# Set pen color.
-pen.color("#7FBA00")
+# Set pen color to green.
+pen.color("#7fba00")
 
-# Green square.
-pen.fillcolor("#7FBA00")
-pen.begin_fill()
+# Draw the green square.
 pen.penup()
 pen.goto(-150, 4)
 pen.pendown()
+
+pen.begin_fill()
 pen.goto(-150, 50)
 pen.goto(-100, 50)
 pen.goto(-100, 4)
 pen.goto(-150, 4)
 pen.end_fill()
 
-# Set pen color.
-pen.color("#FFB900")
+# Set pen color to yellow.
+pen.color("#ffb900")
 
-# Yellow square.
-pen.fillcolor("#FFB900")
-pen.begin_fill()
+# Draw the yellow square.
 pen.penup()
 pen.goto(-150, 0)
 pen.pendown()
+
+pen.begin_fill()
 pen.goto(-100, 0)
 pen.goto(-100, -50)
 pen.goto(-150, -50)
 pen.goto(-150, 0)
 pen.end_fill()
 
-# Set pen color.
-pen.color("#00A4EF")
+# Set pen color to sky blue.
+pen.color("#00a4ef")
 
-# Sky blue square.
-pen.fillcolor("#00A4EF")
-pen.begin_fill()
+# Draw the sky blue square.
 pen.penup()
 pen.goto(-154, 0)
 pen.pendown()
+
+pen.begin_fill()
 pen.goto(-204, 0)
 pen.goto(-204, -50)
 pen.goto(-154, -50)
 pen.goto(-154, 0)
 pen.end_fill()
 
-# Set pen color.
+# Hide pen.
+pen.hideturtle()
+
+# Set text color.
 pen.color("#000000")
 
 # Write "Microsoft".
@@ -77,9 +84,6 @@ pen.penup()
 pen.goto(-60, -30)
 pen.color("#737373")
 pen.write("Microsoft", font=("Segoe UI", 40, "bold"))
-
-# Hide pen.
-pen.hideturtle()
 
 # Hold screen.
 screen.exitonclick()

@@ -1,5 +1,6 @@
 """
 @Author: DAShaikh
+Logo: Windows 10 (https://www.microsoft.com/en-us/software-download/windows10)
 """
 
 import turtle
@@ -7,7 +8,7 @@ import argparse
 
 
 def draw(pen, i):
-    """ Method to draw cuboid. """
+    """ Draw cuboid. """
 
     # Set pen color.
     pen.color(theme[theme_choice]["pen color"])
@@ -27,10 +28,10 @@ def draw(pen, i):
     # Fill the cuboid.
     pen.end_fill()
 
-    # Configure the pen for drawing the "+"
+    # Configure the pen for drawing the '+'.
     pen.color(theme[theme_choice]["background"])
 
-    # Draw the "+"
+    # Draw the '+'.
     pen.goto(65 - i, 0)
     pen.penup()
     pen.goto(0 - i, 65)
@@ -50,15 +51,15 @@ theme = {
         }
 
 # Read command-line arguments.
-parser = argparse.ArgumentParser("Windows 10 Logo animation")
+parser = argparse.ArgumentParser("Windows 10 logo animation.")
 parser.add_argument("--theme", "-t", default="white", type=str,
-                    help="Theme for Windows 10 Logo. [white/blue]. DEFAULT='white'")
+                    help="Theme for Windows 10 logo. [white/blue]. DEFAULT='white'")
 
 args = parser.parse_args()
 theme_choice = args.theme.lower()
 
 if theme_choice in theme:
-    # Initialize the pen and screen objects.
+    # Initialize the turtle pen and screen objects.
     pen = turtle.Turtle()
     screen = turtle.Screen()
 
@@ -68,10 +69,10 @@ if theme_choice in theme:
     # Initialize pen.
     pen.penup()
     pen.width(4)
-    pen.speed(1)
+    pen.speed("slowest")
 
     # Initialize start position.
-    pen.setpos(-50, 0)
+    pen.setposition(-50, 0)
 
     # Draw the logo first time.
     draw(pen, 0)
@@ -96,7 +97,7 @@ if theme_choice in theme:
         pen.penup()
         pen.goto(-60 - i, -50)
 
-    # Write "Windows 10"
+    # Write "Windows 10".
     pen.penup()
     pen.goto(-65, -30)
     pen.color(theme[theme_choice]["pen color"])
@@ -108,4 +109,4 @@ if theme_choice in theme:
     # Hold screen.
     screen.exitonclick()
 else:
-    print(f"Invalid choice: {theme_choice}")
+    print(f"Invalid theme choice: {theme_choice}")
