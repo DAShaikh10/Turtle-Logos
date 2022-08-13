@@ -49,8 +49,21 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+3. Dell  
+    **Usage**  
+    ```bash
+    python dell_logo.py
+    ```
+
+    > **Preview:**
+    > <details>
+    > <summary><i>Dell logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\dell_logo.png" alt="Dell logo" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- Dell logo
 - GeeksforGeeks logo
 - LinkedIn logo
 
