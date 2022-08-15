@@ -63,8 +63,21 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+4. GeeksforGeeks  
+    **Usage**  
+    ```bash
+    python gfg_logo.py
+    ```
+
+    > **Preview:**
+    > <details>
+    > <summary><i>GeeksforGeeks logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\gfg_logo.png" alt="GFG logo" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- GeeksforGeeks logo
 - LinkedIn logo
 
 More logo's will be added soon ...
