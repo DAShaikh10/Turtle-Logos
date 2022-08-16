@@ -4,6 +4,7 @@
 [![License][license-shield]][license-url]
 [![Last commit][last-commit-shield]][last-commit-url]
 ![Awesome badges][awesome-badges-shield]
+![Visitors][visitors-badge]
 
 # Introduction
 This repository contains different logo's drawn using python `turtle` module.
@@ -79,6 +80,7 @@ This repository contains different logo's drawn using python `turtle` module.
 
 ## Upcoming logo's
 - LinkedIn logo
+- Google Sheets logo
 
 More logo's will be added soon ...
 
@@ -104,5 +106,6 @@ All the logo's and their copyright's belong to their respective owners.
 [last-commit-shield]: https://img.shields.io/github/last-commit/DAShaikh10/Turtle-Logos
 [last-commit-url]: https://github.com/DAShaikh10/Turtle-Logos
 [awesome-badges-shield]: https://img.shields.io/badge/badges-awesome-green.svg
+[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=DAShaikh10/Turtle-Logos
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
 [turtle-url]: <https://docs.python.org/3/library/turtle.html>
