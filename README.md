@@ -78,9 +78,44 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+5. LinkedIn  
+    **Usage**  
+    ```bash
+    python linkedin_logo.py
+    ```
+
+    > **Preview:**
+    > <details>
+    > <summary><i>LinkedIn logo - 2 color theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\linkedin_logo - 2-color.png" alt="LinkedIn logo - 2 color theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>LinkedIn logo - 2 color reversed theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\linkedin_logo - 2-color-reversed.png" alt="LinkedIn logo - 2 color reversed theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>LinkedIn logo - Black theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\linkedin_logo - black.png" alt="LinkedIn logo - Black theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>LinkedIn logo - White reversed theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\linkedin_logo - white-reversed.png" alt="LinkedIn logo - White reversed theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- LinkedIn logo
 - Google Sheets logo
+- CRED logo
 
 More logo's will be added soon ...
 
