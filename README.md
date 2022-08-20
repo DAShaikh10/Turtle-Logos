@@ -113,9 +113,23 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+6. Google Sheets  
+    **Usage**  
+    ```bash
+    python google_sheets_logo.py
+    ```
+
+    > **Preview:**
+    > <details>
+    > <summary><i>Google Sheets logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\google_sheets_logo.png" alt="Google Sheets logo" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- Google Sheets logo
 - CRED logo
+- Domino's logo
 
 More logo's will be added soon ...
 
