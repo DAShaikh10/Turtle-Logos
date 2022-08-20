@@ -129,7 +129,8 @@ This repository contains different logo's drawn using python `turtle` module.
 
 ## Upcoming logo's
 - CRED logo
-- Domino's logo
+- Domino's Pizza logo
+- Target logo
 
 More logo's will be added soon ...
 
