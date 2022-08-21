@@ -81,8 +81,13 @@ This repository contains different logo's drawn using python `turtle` module.
 5. LinkedIn  
     **Usage**  
     ```bash
-    python linkedin_logo.py
+    python linkedin_logo.py -t color
     ```
+    or
+    ```bash
+    python linkedin_logo.py --theme color
+    ```
+    *color:* (**Default:** 2 color, **Alternate:** 2 color reversed, Black, White reversed)
 
     > **Preview:**
     > <details>
@@ -127,8 +132,33 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+6. CRED  
+    **Usage**  
+    ```bash
+    python cred_logo.py -t color
+    ```
+    or
+    ```bash
+    python cred_logo.py --theme color
+    ```
+    *color:* (**Default:** White, **Alternate:** Black)
+
+    > **Preview:**
+    > <details>
+    > <summary><i>CRED logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\cred_logo - white.png" alt="CRED logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>CRED logo - Black theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\cred_logo - black.png" alt="CRED logo - Black theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- CRED logo
 - Domino's Pizza logo
 - Target logo
 
