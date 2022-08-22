@@ -132,7 +132,7 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
-6. CRED  
+7. CRED  
     **Usage**  
     ```bash
     python cred_logo.py -t color
@@ -158,8 +158,33 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+8. Domino's Pizza  
+    **Usage**  
+    ```bash
+    python dominos_pizza_logo.py -t color
+    ```
+    or
+    ```bash
+    python dominos_pizza_logo.py --theme color
+    ```
+    *color:* (**Default:** White, **Alternate:** Blue)
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>Domino's Pizza logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\dominos_pizza_logo - white.png" alt="Domino's Pizza logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Domino's Pizza logo - Blue theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\dominos_pizza_logo - blue.png" alt="Domino's Pizza logo - Blue theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- Domino's Pizza logo
 - Target logo
 
 More logo's will be added soon ...
