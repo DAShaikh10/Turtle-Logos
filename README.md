@@ -188,6 +188,7 @@ This repository contains different logo's drawn using python `turtle` module.
 - Target logo
 - CNN logo
 - FedEx logo
+- Mobil logo
 
 More logo's will be added soon ...
 
