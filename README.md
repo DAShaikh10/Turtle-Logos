@@ -184,8 +184,40 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+9. Target  
+    **Usage**  
+    ```bash
+    python target_logo.py -t color
+    ```
+    or
+    ```bash
+    python target_logo.py --theme color
+    ```
+    *color:* (**Default:** Red, **Alternate:** White, Black)
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>Target logo - Red theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\target_logo - red.png" alt="Target logo - Red theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Target logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\target_logo - white.png" alt="Target logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Target logo - Black theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\target_logo - black.png" alt="Target logo - Black theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- Target logo
 - CNN logo
 - FedEx logo
 - Mobil logo
