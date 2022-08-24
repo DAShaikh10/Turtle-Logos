@@ -217,8 +217,33 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+10. CNN  
+    **Usage**  
+    ```bash
+    python cnn_logo.py -t color
+    ```
+    or
+    ```bash
+    python cnn_logo.py --theme color
+    ```
+    *color:* (**Default:** Red, **Alternate:** White)
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>CNN logo - Red theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\cnn_logo - red.png" alt="CNN logo - Red theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>CNN logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\cnn_logo - white.png" alt="CNN logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- CNN logo
 - FedEx logo
 - Mobil logo
 
