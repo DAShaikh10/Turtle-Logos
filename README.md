@@ -243,8 +243,21 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+11. FedEx  
+    **Usage**  
+    ```bash
+    python fedex_logo.py
+    ```
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>FedEx logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\fedex_logo.png" alt="FedEX logo" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
-- FedEx logo
 - Mobil logo
 
 More logo's will be added soon ...
