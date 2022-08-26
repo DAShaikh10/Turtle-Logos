@@ -257,8 +257,23 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+12. Mobil  
+    **Usage**  
+    ```bash
+    python mobil_logo.py
+    ```
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>Mobil logo</i></summary>
+    >     <p align="center">
+    >     <img src="preview\mobil_logo.png" alt="Mobil logo" width=400 height=300>
+    >     </p>
+    > </details>
+
+
 ## Upcoming logo's
-- Mobil logo
+- No release schedule as of now.
 
 More logo's will be added soon ...
 
