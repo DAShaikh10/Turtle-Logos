@@ -273,7 +273,7 @@ This repository contains different logo's drawn using python `turtle` module.
 
 
 ## Upcoming logo's
-- No release schedule as of now.
+- No release scheduled as of now.
 
 More logo's will be added soon ...
 
