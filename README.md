@@ -271,9 +271,51 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+13. Spotify  
+    **Usage**  
+    ```bash
+    python spotify_logo.py -t color
+    ```
+    or
+    ```bash
+    python spotify_logo.py --theme color
+    ```
+    *color:* (**Default:** Green, **Alternate:** Black, 2 color green, 2 color white)
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>Spotify logo - Green theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\spotify_logo - green.png" alt="Spotify logo - Green theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Spotify logo - Black theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\spotify_logo - black.png" alt="Spotify logo - Black theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Spotify logo - 2 color green theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\spotify_logo - 2-color-green.png" alt="Spotify logo - 2 color green theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Spotify logo - 2 color white theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\spotify_logo - 2-color-white.png" alt="Spotify logo - 2 color white theme" width=400 height=300>
+    >     </p>
+    > </details>
 
 ## Upcoming logo's
-- No release scheduled as of now.
+- IBM logo
+- Google logo
+- Apple logo
+- Audi logo
 
 More logo's will be added soon ...
 
