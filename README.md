@@ -311,11 +311,36 @@ This repository contains different logo's drawn using python `turtle` module.
     >     </p>
     > </details>
 
+14. Audi  
+    **Usage**  
+    ```bash
+    python audi_logo.py -t color
+    ```
+    or
+    ```bash
+    python audi_logo.py --theme color
+    ```
+    *color:* (**Default:** Black, **Alternate:** White)
+    
+    > **Preview:**
+    > <details>
+    > <summary><i>Audi logo - Black theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\audi_logo - black.png" alt="Audi logo - Black theme" width=400 height=300>
+    >     </p>
+    > </details>
+    >
+    > <details>
+    > <summary><i>Audi logo - White theme</i></summary>
+    >     <p align="center">
+    >     <img src="preview\audi_logo - white.png" alt="Audi logo - White theme" width=400 height=300>
+    >     </p>
+    > </details>
+
 ## Upcoming logo's
 - IBM logo
 - Google logo
 - Apple logo
-- Audi logo
 
 More logo's will be added soon ...
 
