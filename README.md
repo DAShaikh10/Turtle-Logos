@@ -366,6 +366,6 @@ All the logo's and their copyright's belong to their respective owners.
 [last-commit-shield]: https://img.shields.io/github/last-commit/DAShaikh10/Turtle-Logos
 [last-commit-url]: https://github.com/DAShaikh10/Turtle-Logos
 [awesome-badges-shield]: https://img.shields.io/badge/badges-awesome-green.svg
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=DAShaikh10/Turtle-Logos
+[visitors-badge]: https://img.shields.io/endpoint?url=https://hits.dwyl.com/DAShaikh10/Turtle-Logos.json&label=visitors&color=blue
 [built-with-love-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
 [turtle-url]: <https://docs.python.org/3/library/turtle.html>
